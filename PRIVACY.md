@@ -109,4 +109,3 @@
 
 详细的数据主权理念和技术架构，请阅读：
 - [数据所有权白皮书](https://github.com/zhiziX/zhiziX/blob/main/docs/data-ownership-whitepaper.md)
-- [浏览器扩展架构文档](https://github.com/zhiziX/zhiziX/blob/main/docs/EXTENSION.md)
